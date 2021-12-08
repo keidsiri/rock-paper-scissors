@@ -10,7 +10,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\rock-paper-scissors\rps.csproj" />  
+    <ProjectReference Include="..\rps\rps.csproj" />  
   </ItemGroup>
 
 </Project>
